@@ -1,0 +1,6 @@
+
+ppython:S117"ZRename this local variable "patchSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª±¾C
+6python:S125)"Remove this commented out code.(ÐµÊÆ
+;python:S125,"Remove this commented out code.(ý„Ú¿ýÿÿÿÿ
+;python:S125"Remove this commented out code.(„ÌÌôùÿÿÿÿ
+lpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(üíºô

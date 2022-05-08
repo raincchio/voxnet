@@ -1,0 +1,44 @@
+
+lpython:S117"RRename this parameter "SegImg" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯ÿëòûÿÿÿÿ
+spython:S117"^Rename this local variable "totalPixels_N" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚Æóú
+opython:S1542"TRename function "create_ROIs" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŠªíÃøÿÿÿÿ
+qpython:S1542"VRename function "partition_Img" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒÜâúûÿÿÿÿ
+vpython:S107"aFunction "generate_score_map_patch2Img" has 9 parameters, which is greater than the 7 authorized.(§…Î»
+kpython:S117"VRename this parameter "Binary_Img" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØĞ€Î
+mpython:S1542"WRename function "saveLableImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(æÏƒÍ
+9python:S125"Remove this commented out code.(·õû«ùÿÿÿÿ
+upython:S117"[Rename this local variable "Retain_Img" to match the regular expression ^[_a-z][a-z0-9_]*$.(½š•Çşÿÿÿÿ
+4python:S125"Remove this commented out code.(ÆÔœ¦
+Fpython:S1481"+Remove the unused local variable "p_count".(¬·ÔÓıÿÿÿÿ
+9python:S125"Remove this commented out code.(í—Ù¶şÿÿÿÿ
+lpython:S117"RRename this parameter "srcImg" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒÜâúûÿÿÿÿ
+Hpython:S1481"-Remove the unused local variable "crop_data".(Ûˆö’øÿÿÿÿ
+{python:S1542"eRename function "generate_score_map_patch2Img" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(§…Î»
+spython:S117"YRename this local variable "cPixel_N" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç«„åùÿÿÿÿ
+9python:S125"Remove this commented out code.(·õû«ùÿÿÿÿ
+lpython:S117"WRename this local variable "Img_C1" to match the regular expression ^[_a-z][a-z0-9_]*$.(À¯‡²
+rpython:S1542"\Rename function "Connection_Judge_3D" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ØĞ€Î
+spython:S117"^Rename this local variable "Connect_Elimi" to match the regular expression ^[_a-z][a-z0-9_]*$.(“ñÂ‡
+ipython:S117"TRename this parameter "reject_T" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØĞ€Î
+ipython:S117"URename this parameter "patchSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñ³õ
+qpython:S117"WRename this local variable "Img_C2" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂÓÿÿÿÿÿÿ
+opython:S117"URename this parameter "patchSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(áÁ²¨øÿÿÿÿ
+9python:S125"Remove this commented out code.(£Ë·øøÿÿÿÿ
+npython:S117"ZRename this local variable "Retain_C1" to match the regular expression ^[_a-z][a-z0-9_]*$.(ĞÈ½Q
+4python:S125"Remove this commented out code.(ÆÔœ¦
+ppython:S117"[Rename this local variable "fusion_Img" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤â¶†
+9python:S125"Remove this commented out code.(÷ÏÆıÿÿÿÿ
+npython:S117"TRename this parameter "reject_T" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯ÿëòûÿÿÿÿ
+9python:S125"Remove this commented out code.(“Õ›Ëÿÿÿÿÿ
+tpython:S1542"YRename function "patches2Img_vote" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(áÁ²¨øÿÿÿÿ
+opython:S117"URename this parameter "patchSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÑüÓøÿÿÿÿ
+opython:S117"ZRename this local variable "Retain_C2" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ÑàÒ
+9python:S125"Remove this commented out code.(Ï¾¿Àşÿÿÿÿ
+opython:S117"URename this parameter "patchSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŠªíÃøÿÿÿÿ
+opython:S117"URename this parameter "patchSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(×šÂ€ûÿÿÿÿ
+opython:S117"URename this parameter "patchSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒÜâúûÿÿÿÿ
+qpython:S1542"VRename function "RemoveMinorCC" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¯ÿëòûÿÿÿÿ
+9python:S125"Remove this commented out code.(Ï¾¿Àşÿÿÿÿ
+spython:S117"YRename this local variable "C_number" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÊÔåÒûÿÿÿÿ
+9python:S125"Remove this commented out code.(£Ë·øøÿÿÿÿ
+Fpython:S1481"+Remove the unused local variable "p_count".(»†óüÿÿÿÿÿ
