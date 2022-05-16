@@ -1,7 +1,7 @@
 # voxnet
 origin tensorflow  URL:
 paper:
-# DenseVoxNet-tensorflow
+# VoxNet-tensorflow
 An implementation of DenseVoxNet introduced in TensorFlow.
 
 Link to the original paper: [Automatic 3D Cardiovascular MR Segmentation with Densely-Connected Volumetric ConvNets, MICCAI 2017](https://arxiv.org/abs/1708.00573)
