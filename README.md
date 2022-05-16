@@ -19,7 +19,7 @@ This repository includes the code (training and testing) for DenseVoxNet. The co
 1. Download [HVSMR](http://segchd.csail.mit.edu/data.html) dataset (phase 2) and put them in folder ``data``.
 2. Prepare the hdf5 data to train the model.
   ```shell
-  cd DenseVoxNet-tensorflow
+  cd voxnet
   #modify parameters in prepare_h5_data.py file
   python prepare_h5_data.py
   ```
