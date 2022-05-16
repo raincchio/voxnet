@@ -107,6 +107,10 @@ tf.summary.scalar("learning_rate", learning_rate)
 
 print("Setting up train op...")
 train_op = tf.train.AdamOptimizer(learning_rate, 0.9).minimize(loss, global_step=global_step)
+
+train_op1 = tf.train.AdamOptimizer(learning_rate, 0.9).minimize(loss1, global_step=global_step)
+train_op2 = tf.train.AdamOptimizer(learning_rate, 0.9).minimize(loss2, global_step=global_step)
+
 # train_op = tf.train.MomentumOptimizer(learning_rate, 0.9).minimize(loss, global_step=global_step)
 
 print("Setting up summary op...")
@@ -143,6 +147,13 @@ if args.mode == "train":
 
         feed_dict_train_ = {image2: train_images, label2: train_labels, prob_map_t: prob_map_,pred_annotation_t: pred_annotation_ }
         tmp_, train_loss = sess.run([train_op, loss], feed_dict=feed_dict_train_)
+
+
+        sess.run([train_op1], feed_dict=feed_dict_train_)
+        if itr%5==0:
+            sess.run([train_op1], feed_dict=feed_dict_train_)
+
+
         # loss1,loss2,kl_loss,frame_similarity_loss,self_distilation_label_loss1 ,self_distilation_label_loss2,self_distilation_feature_loss1
                           # ,self_distilation_feature_loss2
         test_accuracy = sess.run(accuracy, feed_dict=feed_dict_test)
